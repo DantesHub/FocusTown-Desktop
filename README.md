@@ -1,3 +1,6 @@
+# Founder of focustown here!
+- Hi, I would love to chat if you have time, we're currently hiring. if you could email team@focustown.app with subject line :Open-source Focustown that would be great :) 
+
 # FocusTown Desktop
 
 Unofficial desktop client for [focustown.app](https://focustown.app) — your town in its own app, with fullscreen, mini mode, themes, and a system tray.
